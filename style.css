@@ -28,7 +28,7 @@ header {
   }
   p {
     color: #C5C6C7;
-    font-size: 17px;
+    font-size: 16px;
     line-height:  25px;
   }
 
@@ -39,11 +39,15 @@ header {
   }
 
   .details {
-    color: white;
+    color: #C5C6C7;
   }
 
-  .address {
+
+  .active {
     color: #66FCF1;
+  }
+  .address {
+    color: white;
   }
 
 
@@ -55,10 +59,10 @@ header {
   }
 
   h2 {
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 400;
     margin-bottom: 2px;
-    color: white;
+    color: #C5C6C7;
   }
 
   h3a {
