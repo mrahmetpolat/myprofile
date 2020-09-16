@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ahmet Polat - ePortfolio</title>
+<meta name="viewport" content="width=device-width"/>
+<meta name="description" content="ePortfolio for Ahmet Polat"/>
+<meta charset="UTF-8">
+<link type="text/css" rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+  <header>
+    <img src="images/ahmet.jpg" style = "width:200px ; height:200px;">
+    <h1>Ahmet Polat</h1>
+    <h2>Student Number : s3870017</h2>
+    <h2>Github Username: polatzinho</h2>
+    <h2><a class="details" href="https://github.com/polatzinho"> https://github.com/polatzinho/</a></h2>
+    <h2><a class="details" href="mailto:s3870017@student.rmit.edu.au" target="_blank">s3870017@student.rmit.edu.au</a> </h2>
+    <br>
+    <ul>
+      <li><a class="address" href="index.html">Me and IT</a></li>
+      <li><a class="address" href="idealjob.html">Ideal Job</a></li>
+      <li><a class="address" href="personal.html">Personal Profile</a></li>
+      <li><a class="address" href="projectidea.html">Project Idea</a></li>
+    </ul>
+  </header>
+  <article>
+    <h1>MoneybyLand</h1>
+  </article>
+      <article>
+    <br>
+    <h3>Overview</h3>
+    <p>
+      The idea behind this software is to make a profit by identifying the development sites via using a software-based on artificial intelligence. <br><br>
+      The overall idea is to   identify fast-growing suburbs by reading the real estate sales in past years from reliable resources.
+      The highly refined information will be used to train the software to make decisions to identify which part of the town is more profitable for any given price range,
+      identifying similar developments by scanning satellite images  or cadastral maps to match the desired number of dwellings  and most importantly show possible return on investment for the development. <br><br>
+      Initially, the software will be focusing on the residential market and it will be available on PC, android, and IOS to make it more accessible.
+    </p>
+  </article>
+
+  <article>
+    <h3>Motivation </h3>
+
+      <p>
+        It is said that the property market in Australia is growing too fast so the home-ownership dream has become out of reach for the majority of the people.
+        Although this is a sad fact for mom and dads, this also creates an opportunity to the investors and developers that the property prices grow exponentially in major cities like Melbourne & Sydney.<br><br>
+        I was a partner of a development consultancy company up until 3 years ago. I had the hands-on experience of how hard it is to identify a development site worth investing in.
+        There are so many consultants involved in the process and the analysis and decision are done by going through so much information within a very limited timeframe.
+        This causes high consultancy fees even before committing to the site, inaccuracy for the results due to the time constraints, and sometimes even no result at all. <br><br>
+        This creates a niche market for MoneybyLand which takes multiple factors and makes a decision and most importantly displays the result on maps.
+      </p>
+    </article>
+
+  <article>
+    <h3>Description</h3>
+<p>
+    When we start talking about development site property, there are multiple factors that we need to take into account.<br><br>
+    You are looking for s rough diamond! Most importantly you are not the only person looking for it. Therefore, you need to act quickly and make an accurate decision.<br><br>
+    MoneybyLand comes into effect in this scenario.
+    As a developer, you know how much money you can invest to purchase the property.
+    Based on the defined purchase value, the software will scan through the database and look for properties that were sold within the identified price range.
+    However, instead of returning all the developments, it will return only the properties developed, subdivided, and sold separately as individual properties.
+    There are multiple factors that software will take certain data set into place.<br><br>
+
+
+    How do the software will know that it was developed?<br>
+    How much for the original purchase value?<br>
+    How much was the resale value for the individual lots?<br>
+    How is the feasibility study will be conducted?<br><br>
+</p>
+    <h4>How does the software will know that it was developed?</h4>
+
+<p>
+    The general pattern of the neighborhood usually has similar property styles.  The software will be trained to identify the difference between a regular undeveloped site and a developed site.
+    The address information then will be matched communicated to Geographical Information System who holds the attributes for cadastral lots.<br><br>
+</p>
+
+    <h4>How much for the original purchase value? & How much was the resale value for the individual lots?</h4>
+<p>
+    REIV (Real Institute of Victoria) and Institution like Consumer Affair Victoria provides historical information for properties, sale figures even rental information.
+    This dataset will be linked to Geographical information System via matching the address to the address attributes of the polygon data in the software.<br><br>
+</p>
+
+    <h4>How is the feasibility study will be conducted?</h4>
+    <p>
+    Once the software identified a property matching the criteria, the REIV data will be searched to shortlist  the recent sale figures for the individual lots, number of the dwelling within the developments, a safe construction fee for the development fee, government fees, tax, and other expenses will be calculated according to the current rates.
+    Finally, the software will return the profit via using the calculated income and initial expenses, also outlining the other costs will occur during the development.<br><br>
+    The database needs to be periodically updated for changes, regulation changes, rate changes, and new sale figures. Therefore, each field requires a team to keep the software updated.<br><br>
+    The biggest complication to be overcome is refining the properties. Because, while scanning the property details the software may not consider the regulation changes through the time.
+    You may not achieve the same size of dwelling or number of dwelling following changes of local government regulations.<br><br>
+    A legal team will be engaged to protect the company via agreements and disclaimers prior to using the software.
+  </p>
+
+  </article>
+
+  <article>
+    <h3>Tools and Techniques</h3>
+
+      <p>
+ArcGIS is a powerful Geographical Information System tool which I used at university. They recently implemented a Python API to combine these two powerful tools to create, analyse, display and share data geospatial maps.
+Python is also a critical programming language for the development of this application for decision making.
+      </p>
+    </article>
+      <article>
+
+    <h3>Skills Required</h3>
+
+      <p>A detailed understanding of how the development industry works, which I developed within the last 14 years. In addition, to create a successful outcome, I will need to use Phyton with the Geographical Information System (GIS) APIs in order to cluster the information. In addition, I need to improve my overall knowledge of statistics and economics to understand and refine the overall software. In addition, project management will be required to engage and manage other consultants, Quantity surveyors, architects, planners, real estate agents, other experts in related fields to check the database and figures to make more accurate profit predictions.  Once the application is complete, external consultants will be engaged to develop Mobile apps for both Android & iOS.
+<br><br>Lastly, a legal team will be engaged for copyright, legal contract, checking against the recent laws and compliances and preparation of legal disclaimers.
+  </p>
+    </article>
+
+    <article>
+      <h3>Outcome</h3>
+
+        <p>The current market heavily relies on decision making by relying on various consultants. This can be both costly and time-consuming.<br><br>
+If the project is successful at the end of the development stage, MoneybyLand will be one of the most dominant residential development platforms. It will also have the potential to expand into the commercial market in Australia as well as into the overseas markets.  The businesses in real estate fields will want to be members of the platform to promote their listing to attract the developers.  In addition, individual the investor will have a membership fee to be able to access the software and its features.
+</p>
+      </article>
+
+  <article>
+    <h3a>References</h3a><br>
+    <p1> Consumer.vic.gov.au. 2020. Property Data. [online] Available at: <https://www.consumer.vic.gov.au/housing/buying-and-selling-property/property-data> [Accessed 16 September 2020].<br>
+ArcGIS for Developers. 2020. Get Started | Arcgis For Developers. [online] Available at: <https://developers.arcgis.com/labs/?product=python&topic=any> [Accessed 16 September 2020].
+</p1>
+  </article>
+
+</body>
+</html>
