@@ -29,12 +29,12 @@ header {
   p {
     color: #C5C6C7;
     font-size: 16px;
-    line-height:  20px;
+    line-height:  21px;
   }
 
   p1 {
     color: #C5C6C7;
-    font-size: 14px;
+    font-size: 12px;
     line-height:  20px;
   }
 
@@ -76,12 +76,13 @@ header {
     font-size: 20px;
     margin-bottom: 2px;
     color: #45A29E;
+    font-weight: 600;
   }
 
   h4 {
-    font-size: 17px;
+    font-size: 16px;
     font-weight: 500;
-    margin-bottom: 2px;
+    margin-bottom: 4px;
     color: #45A29E;
   }
   h1sub {
@@ -127,7 +128,7 @@ header {
     }
 
     img {
-      max-width: 400px;
+      max-width: 40%;
       margin: 40px 0px 0px 0px;
       border: 2px solid #45A29E;
       border-radius: 10px;
