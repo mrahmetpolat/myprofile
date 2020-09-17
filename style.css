@@ -128,7 +128,8 @@ header {
     }
 
     img {
-      max-width: 40%;
+      width 100%;
+      height : auto;
       margin: 40px 0px 0px 0px;
       border: 2px solid #45A29E;
       border-radius: 10px;
