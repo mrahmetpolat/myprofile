@@ -1,8 +1,8 @@
 html,body,div,h1,h2,h3,h4,p,img,ul,li,article,header {
 
 font:inherit;
-margin: 0px auto;
 font-family: helvetica;
+margin: 0px auto;
 }
 
 html{
@@ -51,6 +51,7 @@ header {
   }
 
   h1 {
+    font-family: "Quicksand",helvetica;
     font-size: 30px;
     font-weight: 600;
     margin-bottom: 2px;
@@ -85,9 +86,7 @@ header {
     margin-bottom: 4px;
     color: #45A29E;
   }
-  h1sub {
-    font-size: 20px;
-  }
+
 
   img {
     margin: 40px 0px 0px 0px;
@@ -115,11 +114,7 @@ header {
     background: rgba(50,50,50,0.5);
   }
 
-  r {
-    color: #C5C6C7;
-    font-size: 17px;
-    line-height:  25px;
-  }
+/* Following styles will kick in on mobile devices*/
   @media (max-width: 500px) {
     li {
       padding: 5px;
