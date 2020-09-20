@@ -1,5 +1,5 @@
 #MyProfile
-
+  <article>
     <h3>Personal Information</h3>
     <p>
       I am a 40 years old aspiring Information Technology student who is interested in Data Science, Artificial Intelligence, and Machine Learning.   <br><br>
@@ -16,7 +16,7 @@
   </article>
   <article>
     <h3>Interest in IT?</h3>
-    <p> II have always been interested in technology and technological improvements since my childhood.
+    <p> I have always been interested in technology and technological improvements since my childhood.
       I believe everything started when I first saw Star Wars, Star Tek, and Battlestar Galactica and fell in love at the same moment in the 1990s.
       My dad got me my first computer in 2000 when I got into university. Since then, computers are a big part of my life at home and work. <br> <br>
       Working with computers, understanding programming languages, and being able to produce something with them was always one of my dreams.
@@ -25,8 +25,7 @@
       Even though I was never directly in the IT industry, I chose to implement technological improvement in my professional works at all times.
       I kept doing researches about, how to improve efficiency, how to present better, what are the newest software related to my fields, how to improve the quality of the products, etc.  <br> <br>
       I can currently create small applications in Java and Python.
-      Also, I have an average understanding of how the database systems work and communicate with the program, which I learned during my previous courses. <br> <br>
-
+      Also, I have an average understanding of how the database systems work and communicate with the program, which I learned during my previous courses. <br>
       COVID is one of the worst things that recently happened to the world. However, it also created an opportunity for me to spare much needed time to study and chase my dreams.
       Initially, I enrolled for 1 course to see if I still have the patience to study. After finishing that, I realized that even taking 1 course and achieving good results made me feel accomplished.
       Most importantly, I am now one step closer to my dream. Therefore, I enrolled in further courses to be able to obtain a Bachelor of Information Technology degree at RMIT in near future.
