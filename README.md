@@ -1,5 +1,6 @@
 #MyProfile
   <article>
+  <img src="images/bg2.jpg" style = "width:200px ; height:200px;">
     <h3>Personal Information</h3>
     <p>
       I am a 40 years old aspiring Information Technology student who is interested in Data Science, Artificial Intelligence, and Machine Learning.   <br><br>
@@ -29,7 +30,6 @@
       COVID is one of the worst things that recently happened to the world. However, it also created an opportunity for me to spare much needed time to study and chase my dreams.
       Initially, I enrolled for 1 course to see if I still have the patience to study. After finishing that, I realized that even taking 1 course and achieving good results made me feel accomplished.
       Most importantly, I am now one step closer to my dream. Therefore, I enrolled in further courses to be able to obtain a Bachelor of Information Technology degree at RMIT in near future.
-
     </p>
 
   </article>
