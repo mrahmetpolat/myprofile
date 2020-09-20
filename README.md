@@ -1,32 +1,5 @@
 #MyProfile
-<!DOCTYPE html>
-<html>
-<head>
-<title>Ahmet Polat - ePortfolio</title>
-<meta name="viewport" content="width=device-width"/>
-<meta name="description" content="ePortfolio for Ahmet Polat"/>
-<meta charset="UTF-8">
-<link type="text/css" rel="stylesheet" href="style.css">
-</head>
 
-
-<body>
-  <header>
-    <img src="images/ahmet.jpg" style = "width:200px ; height:200px;">
-    <h1>Ahmet Polat</h1>
-    <h2>Student Number : s3870017</h2>
-    <h2>Github Username: mrahmetpolat</h2>
-    <h2><a class="details" href="https://github.com/mrahmetpolat/myprofile"> https://github.com/mrahmetpolat/myprofile/</a></h2>
-    <h2><a class="details" href="mailto:s3870017@student.rmit.edu.au" target="_blank">s3870017@student.rmit.edu.au</a> </h2>
-    <br>
-    <ul>
-      <li><a class="active" href="index.html">Me and IT</a></li>
-      <li><a class="address" href="idealjob.html">Ideal Job</a></li>
-      <li><a class="address" href="personal.html">Personal Profile</a></li>
-      <li><a class="address" href="projectidea.html">Project Idea</a></li>
-    </ul>
-  </header>
-  <article>
     <h3>Personal Information</h3>
     <p>
       I am a 40 years old aspiring Information Technology student who is interested in Data Science, Artificial Intelligence, and Machine Learning.   <br><br>
